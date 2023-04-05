@@ -15,4 +15,4 @@ Most likely working alone.
 Which idea do you like the most?
 
 
-### Update - I am leaning towards doing the stock market simulator.
+Update - I am leaning towards doing the stock market simulator.
