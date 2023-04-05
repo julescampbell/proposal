@@ -13,3 +13,6 @@ Most likely working alone.
 ## Do you have any questions of your own?
 
 Which idea do you like the most?
+
+
+### Update - I am leaning towards doing the stock market simulator.
