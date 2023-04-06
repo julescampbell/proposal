@@ -39,9 +39,6 @@ or
 
 The user will have a starting sum of money and has to buy and sell simulated stocks. There will be AI generated fake news headlines for the game's companies that will coorelate to the actual change in the company's price.
 
-## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
-
-TODO, if applicable
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
