@@ -26,7 +26,9 @@ AI RPG / AI Stock Market Sim
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
 Randomly generated storyline, characters, graphics, and plot twists to make a new feeling game every time you play.
+
 or
+
 Simulated stock market tool that offers the user news headlines that coorelate to the changes in stock prices.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
