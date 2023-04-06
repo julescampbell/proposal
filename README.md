@@ -32,7 +32,9 @@ Simulated stock market tool that offers the user news headlines that coorelate t
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
 I will create the framework for a game and have ChatGPT design a random storyline, characters, graphics, and plot twists to generate a new story as you play.
+
 or
+
 The user will have a starting sum of money and has to buy and sell simulated stocks. There will be AI generated fake news headlines for the game's companies that will coorelate to the actual change in the company's price.
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
