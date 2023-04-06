@@ -57,4 +57,3 @@ The best outcome for me is to be able to complete both of these projects before 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
 I am currently reaserching a way to generate AI art within the Python script. I have already learned how to prompt ChatGPT and edit the responses within my program, which was a big step towards my goal, so now I am doing more research on AI art and game libraries for Python while I decide where to start.
-.
