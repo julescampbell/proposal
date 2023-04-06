@@ -52,7 +52,7 @@ I will hopefully learn a way to generate AI art for free with Python, but if I a
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-The best outcome for me is to be able to complete both of these projects before the due date because I think that once I completely understand one of them I will be able to make the other much faster.
+The best outcome for me is to be able to complete both of these projects before the due date because I think that once I completely understand one of them I will be able to make the other much faster. At absolute best I will be able to integrate the stock market sim into the RPG game somehow.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
